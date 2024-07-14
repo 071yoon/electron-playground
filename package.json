@@ -1,0 +1,9 @@
+{
+  "name": "electron-playground",
+  "version": "0.1.0",
+  "description": "test application for electron playground",
+  "main": "index.js",
+  "repository": "https://github.com/071yoon/electron-playground.git",
+  "author": "071yoon <yeonggilol@gmail.com>",
+  "license": "MIT"
+}
